@@ -1,6 +1,6 @@
 {
   "name": "avoid-ai-design",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Audits AI-generated frontend and rewrites it so it stops looking AI-made: purple-gradient slop and the \"tasteful\" defaults (cream + terracotta, mono chrome). Zero-dependency scanner included. The design counterpart to avoid-ai-writing.",
   "main": "src/index.js",
   "scripts": {
